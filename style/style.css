@@ -11,7 +11,10 @@ body{
 
 
 
-@media only screen and (min-width:480px),(max-width: 767px) {
+
+
+
+@media only screen and (max-width: 767px) {
     #one{
             width: 480px;
             height: 75px;
@@ -115,7 +118,7 @@ body{
       }
 
 /* Large screens */
-  @media only screen and (min-width: 768px),(max-width: 960px) {
+  @media only screen and (min-width: 768px){
 #one{
         width: 960px;
         height: 100px;
